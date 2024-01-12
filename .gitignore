@@ -1,0 +1,9 @@
+# Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+env/
